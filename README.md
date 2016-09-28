@@ -1,2 +1,2 @@
-# coursera-test
-coursera test project
+# Feral Vipers
+Oyster World
